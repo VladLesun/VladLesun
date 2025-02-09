@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47vmseg4zshww63jpj7oq214iq4lvzuj301r6ya1te&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47vmseg4zshww63jpj7oq214iq4lvzuj301r6ya1te&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 
   <div id="badges">
     <a href="https://t.me/VladLesun" target="_blanck">
@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="350"/>
 </div>
 
   ---
