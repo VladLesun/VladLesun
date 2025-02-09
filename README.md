@@ -21,12 +21,11 @@
 
 <div id="mian" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+  ---
+  
+  ### :man_technologist: About Me :
+  Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
 </div>
-
----
-
-### :man_technologist: About Me :
-Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
-
 
 
