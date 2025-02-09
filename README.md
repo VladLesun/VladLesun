@@ -19,13 +19,16 @@
   </h1>
 </div>
 
-<div id="mian" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
   ---
   
-  ### :man_technologist: About Me :
+  ### :man_technologist: Обо мне:
   Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
-</div>
+  Программирование для меня — это не просто работа, а страсть, которая началась с любви к компьютерам и решению интересных задач. Меня вдохновляет создание красивых и функциональных интерфейсов, где каждая кнопка, ссылка и текст играют свою роль. Я ценю точность и аккуратность в работе, стремясь к тому, чтобы каждый пиксель соответствовал макету, а функции приложения работали, как часы.
+  
+
 
 
