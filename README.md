@@ -26,6 +26,7 @@
 ---
 
 ### :man_technologist: About Me :
+Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
 
 
 
