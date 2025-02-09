@@ -25,7 +25,7 @@
 
   ---
   
-  ### **👨‍💻 Обо мне_(About me)_:**
+  ### 👨‍💻 Обо мне *(About me)*:
   Я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.   
   Программирование для меня — это не просто работа, а страсть, которая началась с любви к компьютерам и решению интересных задач. Меня вдохновляет создание красивых и функциональных интерфейсов, где каждая кнопка, ссылка и текст играют свою роль. Я ценю точность и аккуратность в работе, стремясь к тому, чтобы каждый пиксель соответствовал макету, а функции приложения работали, как часы.   
   *Programming for me is not just a job, but a passion that started with a love for computers and solving interesting tasks. I am inspired by creating beautiful and functional interfaces where every button, link, and text plays its role. I value precision and attention to detail in my work, striving to ensure that every pixel matches the design and that the application's functions work like clockwork.*
